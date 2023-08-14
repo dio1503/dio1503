@@ -1,3 +1,5 @@
+![Profile_views](https://komarev.com/ghpvc/?username=dio1503&color=orange&style=for-the-badge)
+
 ### Hi there 👋
 
 <!--
