@@ -4,6 +4,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EE8838&width=435&lines=I'm+QA+Engeneer+(manual))](https://git.io/typing-svg)
 
+
+### My Stack :sunglasses:
+
+![Postman](https://img.shields.io/badge/-Postman-000010?style=for-the-badge&logo=postman)
+
 <!--
 **dio1503/dio1503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
